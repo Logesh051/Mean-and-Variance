@@ -1,7 +1,7 @@
 #  Mean and variance of a discrete  distribution
-# Name : Suman 
-# Reg No : 212223240163
-# Date : 29/04/2025
+# Name : LOGESH.N.A 
+# Reg No : 212223240078
+# Date : 13/05/2025
 
 # Aim : 
 
